@@ -1,5 +1,4 @@
 import requests
-import re
 from PIL import Image
 
 RANDOM_URL = "https://www.random.org/{type}/"
